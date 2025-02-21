@@ -1,2 +1,2 @@
 # GCW
-# Pro, segue o arquivo com as atividades das aulas passadas: SW II e GCW. Já estão juntos.
+# Nome do arquivo de 14.02.2025 f
